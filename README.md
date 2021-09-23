@@ -6,5 +6,4 @@
 
 [![EmersonSPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonSPereira)](https://github.com/EmersonSPereira/github-readme-stats)
 
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
 
