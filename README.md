@@ -4,10 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonsousapereira/)](https://www.linkedin.com/in/emersonsousapereira/)
 
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonSPereira)](https://github.com/EmersonSPereira/github-readme-stats)
+[![EmersonSPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonSPereira)](https://github.com/EmersonSPereira/github-readme-stats)
 
 - Mas não se esqueça que você deve editar com suas informações por exemplo:
 
-NOMEGIT= hellenmas. 
-
-[![EmersonSPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonSPereira)](https://github.com/hellenmas/github-readme-stats)
